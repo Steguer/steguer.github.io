@@ -1,0 +1,13 @@
+<div ng-controller="homeCtrl">
+	<div class="row">
+		<div ng-repeat="pict in img.Home" class="col-md-6">
+			<a href=#/{{pict.Link}}/{{currentLang}} class="thumbnail">
+				<img src={{img.DefaultImgPath}}/{{pict.Name}} alt={{pict.AltText}} class="img-rounded">
+				<div class="caption">
+					<h3>{{pict.AltText}}</h3>
+				</div>
+		    </a>
+		</div>
+	</div>
+</div>
+

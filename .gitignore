@@ -1,0 +1,11 @@
+logs/*
+!.gitkeep
+node_modules/
+bower_components/
+tmp
+.DS_Store
+.idea
+NewCV.sublime-project
+NewCV.sublime-workspace
+app/npm-debug.log
+app/.fuse_hidden00000ea300000001

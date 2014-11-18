@@ -1,0 +1,20 @@
+{
+	"NavBarButton": {
+		"Button1": {
+			"Text": "Personal",
+			"Link": "perso"
+		},
+		"Button2": {
+			"Text": "Educations",
+			"Link": "educations"
+		},
+		"Button3": {
+			"Text": "Experiences",
+			"Link": "experiences"
+		},
+		"Button4": {
+			"Text": "Projects",
+			"Link": "projects"
+		}
+	}
+}
