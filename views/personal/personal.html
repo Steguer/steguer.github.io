@@ -1,0 +1,8 @@
+<div ng-controller="personalCtrl">
+	<div class="paginationCenter">
+		<pagination class="pagination-lg" total-items="totalItems" ng-model="currentPage" previous-text="&laquo;" next-text="&raquo;"></pagination>
+	</div>
+	<div class="slide-animate-container" >
+	    <div class="slide-animate col-md-12" ng-include="changePage()"}></div>
+	</div>
+</div>

@@ -1,0 +1,11 @@
+<div class="thumbnail">
+	<h1 translate>SCHOOLS3.TITLE</h1>
+	<div class="row" ng-repeat="comp in studies.IsenEng">
+		<p class="col-md-6">
+			<strong translate>{{"SCHOOLS3." + comp.year}}</strong></br>
+		</p>
+		<p class="col-md-6">
+			<span ng-repeat="c in comp.courses"><span translate>{{"SCHOOLS3." + c}}</span></br></span>
+		</p>
+	</div>
+</div>

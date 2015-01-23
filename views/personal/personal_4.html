@@ -1,0 +1,23 @@
+<div class="thumbnail">
+	<h1 translate>PERSONAL4.TITLE</h1>
+	<div ng-repeat="comp in personal.competences.Language">
+		<div class="row">
+			<div class="col-md-1">
+				<!-- It's displaying th e details when we click on it -->
+				<button class="btn btn-default progress-label" ng-click="isCollapsed = !isCollapsed" ng-disabled="!comp.details">
+					<!-- span add to use translate -->
+					<span translate>{{"PERSONAL4."+comp.label}}</span>
+				</button>
+			</div>
+			<div class="col-md-8">
+				<progressbar class="fatProgress" value="comp.general">
+					<span>{{comp.general}}%</span>
+				</progressbar>
+			</div>
+		</div>
+		<!-- It's display if we click on the button above -->
+		<div collapse="isCollapsed" class="well well-lg">
+			<p ng-repeat="c in comp.details" translate>{{"PERSONAL4."+c}}</p>
+		</div>
+	</div>
+</div>

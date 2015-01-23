@@ -1,0 +1,170 @@
+{
+	"presentation": {
+		"section1": "S1",
+		"section2": "S2",
+		"section3": "S3"
+	},
+	"schoolLink": {
+		"linkUqac": {
+			"img": "rsc/img/uqac_logo.png",
+			"link": "http://programmes.uqac.ca/1537"
+		},
+		"linkIsen": {
+			"img": "rsc/img/isen_logo2.png",
+			"link": "http://www.isen.fr/brest-rennes/formations/domaines-professionnels/"
+		}
+	},
+	"competences": {
+		"ComputerScience": {
+			"Clang": {
+				"details": {
+					"SFML": {
+						"value": 70,
+						"label": "SFML"
+					},
+					"Allegro": {
+						"value": 60,
+						"label": "ALLEGRO"
+					},
+					"Qt": {
+						"value": 80,
+						"label": "QT"
+					},
+					"MFC": {
+						"value": 70,
+						"label": "MFC"
+					},
+					"C++11": {
+						"value": 70,
+						"label": "CPP"
+					}
+				},
+				"general": 90,
+				"label": "CCPP"
+			},
+			"Web": {
+				"details": {
+					"AngularJS": {
+						"value": 60,
+						"label": "ANGULARJS"
+					},
+					"Bootstrap": {
+						"value": 60,
+						"label": "BOOTSTRAP"
+					},
+					"HTML": {
+						"value": 70,
+						"label": "HTML"
+					},
+					"CSS": {
+						"value": 70,
+						"label": "CSS"
+					}
+				},
+				"general": 60,
+				"label": "WEB"
+			},
+			"Java": {
+				"details": {
+					"Swing": {
+						"value": 70,
+						"label": "SWING"
+					},
+					"JSFML": {
+						"value": 70,
+						"label": "JSFML"
+					},
+					"Distributed Java": {
+						"value": 50,
+						"label": "DISTRIBUTED_JAVA"
+					}
+				},
+				"general": 70,
+				"label": "JAVA"
+			},
+			"xAndroid": {
+				"details": "",
+				"general": 60,
+				"label": "ANDROID"
+			},
+			"yVideoGame": {
+				"details": {
+					"Unity": {
+						"value": 70,
+						"label": "UNITY"
+					},
+					"UnrealEngine": {
+						"value": 70,
+						"label": "UE"
+					}
+				},
+				"label": "VIDEO_GAME"
+			},
+			"zOthers": {
+				"details": {
+					"Golang": {
+						"value": 60,
+						"label": "GO"
+					},
+					"Dlang": {
+						"value": 50,
+						"label": "D"
+					},
+					"Dart": {
+						"value": 50,
+						"label": "DART"
+					},
+					"Rust": {
+						"value": 60,
+						"label": "RUST"
+					}
+				},
+				"label": "OTHERS"
+			}
+		},
+		"Electronics": {
+			"Signal": {
+				"general": 50,
+				"label": "SIGNAL_PROCESSING"
+			},
+			"zAnalogueElectronics": {
+				"general": 50,
+				"label": "ANALOGUE_ELECTRONICS_SKILLS"
+			},
+			"zNumericalElectronics": {
+				"general": 50,
+				"label": "NUMERICAL_ELECTRONICS_SKILLS"
+			}
+		},
+		"Language": {
+			"FRENCH": {
+				"general": 100,
+				"details": {
+					"level": "FRENCH_LEVEL"
+				},
+				"label": "FRENCH"
+			},
+			"English": {
+				"general": 75,
+				"details": {
+					"level": "ENGLISH_LEVEL"
+				},
+				"label": "ENGLISH"
+			},
+			"Spanish": {
+				"general": 20,
+				"details": {
+					"level": "SPANISH_LEVEL"
+				},
+				"label": "SPANISH"
+			},
+			"Japanese": {
+				"general": 10,
+				"details": {
+					"level": "JAPANESE_LEVEL"
+				},
+				"label": "JAPANESE"
+			}
+		}
+	}
+}

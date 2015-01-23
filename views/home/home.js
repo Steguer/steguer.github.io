@@ -2,6 +2,6 @@
 
 angular.module('stevenGerardCV.home', [])
 
-  .controller('homeCtrl', ['$scope', 'Config', function($scope, Config) {
-    $scope.img = Config.query({config:'imgConfig'});
+  .controller('homeCtrl', ['$scope', '$translate', 'Config', function($scope, $translate, Config) {
+    $scope.img = Config.query({config:'home'});
   }]);

@@ -1,3 +1,19 @@
 <div class="titleBar">
-	<img src={{img.DefaultImgPath}}/{{img.TitleBar.Name}} alt={{img.TitleBar.AltText}} title="" />
+	<div class="row">
+		<div class="col-md-8">
+			<a href="#/home">
+				<img src={{img.defaultImgPath}}/{{img.TitleBar.name}} alt={{img.TitleBar.altText}} title="" />
+			</a>
+		</div>
+
+		<div class="col-md-4">
+			<div class="row">
+				<ul class="list-inline">
+					<li ng-repeat="link in img.socialNetwork">
+						<a href="{{link.link}}"><img src="{{link.img}}"></img></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
 </div>

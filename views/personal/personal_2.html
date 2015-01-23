@@ -1,0 +1,31 @@
+<!-- Computer science skills -->
+<div class="thumbnail">
+	<h1 translate>PERSONAL2.TITLE</h1>
+	<div ng-repeat="comp in personal.competences.ComputerScience">
+		<div class="row">
+			<div class="col-md-1">
+				<!-- It's displaying th e details when we click on it -->
+				<button class="btn btn-default progress-label" ng-click="isCollapsed = !isCollapsed" ng-disabled="!comp.details">
+					<span translate>{{"PERSONAL2." + comp.label}}</span>
+				</button>
+			</div>
+			<div class="col-md-8">
+				<progressbar class="fatProgress" value="comp.general">
+					<span>{{comp.general}}%</span>
+				</progressbar>
+			</div>
+		</div>
+		<!-- It's display if we click on the button above -->
+		<div collapse="isCollapsed" class="well well-lg">
+			<table class="table table-striped" style="width:60%;">
+				<!-- Display the  content af details contain in competences.json -->
+				<tr ng-repeat="c in comp.details">
+					<td translate>{{"PERSONAL2." + c.label}}</td>
+					<td><progressbar value="c.value">
+						<span>{{c.value}}%</span>
+					</progressbar></td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>

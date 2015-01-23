@@ -1,3 +1,11 @@
-<p class="thumbnail">
-	coucou
-</p>
+<div class="thumbnail">
+	<h1 translate>SCHOOLS2.TITLE</h1>
+	<div class="row" ng-repeat="comp in studies.Uqac">
+		<p class="col-md-6">
+			<strong translate>{{"SCHOOLS2." + comp.semestre}}</strong></br>
+		</p>
+		<p class="col-md-6">
+			<span ng-repeat="c in comp.courses"><span translate>{{"SCHOOLS2." + c}}</span></br></span>
+		</p>
+	</div>
+</div>

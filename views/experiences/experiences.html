@@ -1,0 +1,14 @@
+<div ng-controller="experiencesCtrl">
+	<div class="thumbnail">
+		<div class="row" ng-repeat="comp in experiences">
+			<p class="col-md-6">
+				<strong translate>{{"EXPERIENCES." + comp.date}}</strong>
+			</p>
+
+			<p class="col-md-6">
+				<span translate>{{"EXPERIENCES." + comp.job}}</span></br>
+				<em translate>{{"EXPERIENCES." + comp.details}}</em>
+			</p>
+		</div>
+	</div>
+</div>

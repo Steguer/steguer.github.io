@@ -1,0 +1,16 @@
+<div class="thumbnail">
+	<h1 translate>PERSONAL3.TITLE</h1>
+	<div ng-repeat="comp in personal.competences.Electronics">
+		<div class="row">
+			<div class="col-md-1">
+				<!-- It's displaying th e details when we click on it -->
+				<button class="btn btn-default progress-label" ng-click="isCollapsed = !isCollapsed" translate="PERSONAL3.{{comp.label}}" disabled></button>
+			</div>
+			<div class="col-md-8">
+				<progressbar class="fatProgress" value="comp.general">
+					<span>{{comp.general}}%</span>
+				</progressbar>
+			</div>
+		</div>
+	</div>
+</div>

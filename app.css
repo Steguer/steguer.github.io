@@ -85,6 +85,11 @@ p {
 .titleBar {
 	background-image: url("rsc/img/BackgroundTitleBar.png");
 	padding: 1.8%;
+  color: white;
+}
+
+.titleBar ul {
+  text-align: right;
 }
 
 .img-rounded {
@@ -99,6 +104,10 @@ p {
 	-webkit-border-radius: 10px 10px 10px 10px;
 }
 
+.thumbnail > h1 {
+  text-align: center;
+}
+
 .navbar {
 	background-color: #74c0fa;
 }
@@ -111,7 +120,59 @@ p {
 	color: white;
 }
 
-.pagination {
-  margin-left: 40%;
-  margin-right: 40%;
+.paginationCenter {
+  text-align: center;
+}
+
+.progress-label {
+  float: left;
+  margin-right: 1em;
+}
+
+.fatProgress {
+  height: 35px;
+}
+
+.fatProgress span {
+    white-space:nowrap;
+    font-size: 20px;
+    line-height: 40px;
+ }
+
+td {
+text-align: center;
+}
+
+td .progress {
+margin-right: 50%;
+}
+
+li {
+  list-style-type: none;
+  text-decoration: none;
+}
+
+.centerP {
+  text-align: center;
+}
+
+.paragraph {
+  text-indent: 20px;
+}
+
+.caption .subtitle {
+  font-size: 1em;
+}
+
+.well p {
+  font-size: 1em;
+}
+
+.schoolLink {
+  text-align: center;
+}
+
+.schoolLink img {
+  width:200px;
+  height:200px;
 }

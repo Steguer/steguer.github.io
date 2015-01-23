@@ -4,12 +4,16 @@
 angular.module('stevenGerardCV', [
   'ngRoute',
   'ngAnimate',
+  'ngCookies',
   'pascalprecht.translate',
   'stevenGerardCV.titleBar',
   'stevenGerardCV.navBar',
   'stevenGerardCV.jsonServices',
   'stevenGerardCV.home',
   'stevenGerardCV.educations',
+  'stevenGerardCV.personal',
+  'stevenGerardCV.experiences',
+  'stevenGerardCV.projects',
   'ui.bootstrap'
 ]).
 
@@ -17,26 +21,30 @@ config(['$routeProvider',
 	'$translateProvider',
   function($routeProvider, $translateProvider) {
     $routeProvider.
-      when('/home/:lang', {
+      when('/home', {
         templateUrl: 'views/home/home.html',
-        controller: 'languageCtrl'
       }).
-      when('/educations/:lang', {
+      when('/educations', {
       	templateUrl: 'views/studies/studies.html',
-      	controller: 'languageCtrl'
+      }).
+      when('/personal', {
+        templateUrl: "views/personal/personal.html",
+      }).
+      when('/experiences',  {
+        templateUrl: "views/experiences/experiences.html",
+      }).
+      when('/projects',  {
+        templateUrl: "views/projects/projects.html",
       }).
       otherwise({
-        redirectTo: '/home/en'
+        redirectTo: '/home'
       });
 
-   //    $translateProvider.translations('en', translationsEN);
-	  // $translateProvider.translations('fr', translationsFR);
+      $translateProvider.useStaticFilesLoader({
+        prefix: 'rsc/config/text-',
+        suffix: '.json'
+      });
 	  $translateProvider.preferredLanguage('en');
+    $translateProvider.useLocalStorage();
 	  $translateProvider.fallbackLanguage('en');
-  }]).
-
-controller('languageCtrl', ['$translate', '$scope', '$routeParams',
- function($translate, $scope, $routeParams){
-		$translate.use($routeParams.lang);
-		$scope.currentLang = $routeParams.lang;
-}]);
+  }]);

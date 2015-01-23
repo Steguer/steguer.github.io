@@ -1,0 +1,157 @@
+{
+	"SCHOOLS1": {
+		"ROW1": {
+			"YEAR": "2014-2015",
+			"DOUBLE_DIPLOMA": "Double degree: ",
+			"STUDY1": "Master of science in computer science with focus on video games",
+			"UNIVERSITY1": "UQAC (Université du Québec A Chicoutimi)",
+			"STUDY2": "Last year of five years in engineering school",
+			"UNIVERSITY2": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest",
+			"NOTE": "(Currently at UQAC)"
+		},
+		"ROW2": {
+			"YEAR": "2012-2014",
+			"STUDY": "3 and 4 year of five years focus on software engineering",
+			"UNIVERSITY": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest"
+		},
+		"ROW3": {
+			"YEAR": "2010-2012",
+			"STUDY": "Intensive courses in maths and physics",
+			"UNIVERSITY": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest"
+		},
+		"ROW4": {
+			"YEAR": "2010",
+			"STUDY": "Baccalauréat Scientifique (A-levels/high school diploma) with honors",
+			"UNIVERSITY": "Lycée Félix le Dantec de Lannion(22) France"
+		},
+		"TITLE": "Studies"
+	},
+	"SCHOOLS2": {
+		"SEMESTER1": "Semester 1 (09/2014 - 12/2014)",
+		"COURSE11": "Video Game development",
+		"COURSE12": "Software Engineering",
+		"COURSE13": "Artificial Intelligence for Video Game",
+		"COURSE14": "Project Management",
+		"SEMESTER2": "Semester 2 (01/2014 - 04/2014)",
+		"COURSE21": "Game Engine",
+		"COURSE22": "Development for smartphone",
+		"COURSE23": "Information Technology and Innovation Technology",
+		"COURSE24": "Video Game Project",
+		"TITLE": "Master of science in computer science with focus on video games"
+	},
+	"SCHOOLS3": {
+		"YEAR1": "Fourth year",
+		"COURSE11": "Development for Android",
+		"COURSE12": "IHM development",
+		"COURSE13": "Distributed JAVA",
+		"COURSE14": "Numerical analysis",
+		"COURSE15": "Signal processing",
+		"COURSE16": "Electronics",
+		"YEAR2": "Third year",
+		"COURSE21": "Signal processing",
+		"COURSE22": "Electronics",
+		"COURSE23": "Processor programming",
+		"COURSE24": "VHDL",
+		"COURSE25": "Parallele programming with C language",
+		"TITLE": "Fourth and third years of five years at engineering school"
+	},
+	"PERSONAL1": {
+		"TITLE": "Presentation",
+		"S1": "Welcome to my online resume!",
+		"S2": "My name is Steven Gerard, I am 22 years old and a student in computer science. I was a student at ISEN (Institue Supérieur d'Electronique et du Numérique, France) engineering school for 4 years. For my last school year I decided to prepare a double diploma at the UQAC (Université du Québec A Chicoutimi, Canada) university. Therefor I am currently studying for a Master of Science in computer science with a focus on video games.",
+		"S3": "Finally I would like to find an internship of 6 mounths in the video game industry like engine or AI programmer."
+	},
+	"PERSONAL2": {
+		"TITLE": "Computer science skills",
+		"CCPP": "C/C++",
+		"SFML": "SFML",
+		"ALLEGRO": "Allegro",
+		"QT": "Qt",
+		"MFC": "MFC",
+		"CPP": "C++11",
+		"ANGULARJS": "AngularJS",
+		"BOOTSTRAP": "Bootstrap",
+		"HTML": "HTML",
+		"CSS": "CSS",
+		"WEB": "Web",
+		"JAVA": "Java",
+		"SWING": "Swing",
+		"JSFML": "JSFML",
+		"DISTRIBUTED_JAVA": "Distributed Java",
+		"ANDROID": "Android",
+		"VIDEO_GAME": "Video Game",
+		"GO": "Golang",
+		"D": "Dlang",
+		"DART": "Dart",
+		"OTHERS": "Others",
+		"UNITY": "Unity",
+		"UE": "Unreal Engine 4",
+		"RUST": "Rust"
+	},
+	"PERSONAL3": {
+		"TITLE": "Electronics skills",
+		"SIGNAL_PROCESSING": "Signal Processing",
+		"ANALOGUE_ELECTRONICS_SKILLS": "Analogue",
+		"NUMERICAL_ELECTRONICS_SKILLS": "Numeric"
+	},
+	"PERSONAL4": {
+		"TITLE": "Language skills",
+		"FRENCH": "French",
+		"FRENCH_LEVEL": "Mother tongue",
+		"ENGLISH": "English",
+		"ENGLISH_LEVEL": "FCE First Certificate of English",
+		"JAPANESE": "Japanese",
+		"JAPANESE_LEVEL": "One year of study",
+		"SPANISH": "Spanish",
+		"SPANISH_LEVEL": "Three years of study"
+	},
+	"EXPERIENCES": {
+		"IBC_DATE": "12-26 September 2013",
+		"IBC": "Participed at the IBC (International Broadcasting Convention) exhibition at Amsterdam within the Binocle company",
+		"IBC_DETAILS": "Prospected the evolution of the 3D stereoscopic market",
+		"THALES_DATE": "July-August 2013",
+		"THALES":  "Internship in Thales Angénieux company (France)",
+		"THALES_DETAILS":  "Development of HCI in C++ language with use of the MFC library and wording of a technical documentation ",
+		"ISEN_JOB2_DATE": "2012-2013",
+		"ISEN_JOB2": "Manager of the school's student residence",
+		"ISEN_JOB2_DETAILS": " Prepare orders and manage the other volunteers ",
+		"ISEN_JOB1_DATE": "2011-2012",
+		"ISEN_JOB1": " Waiter in the school's student residence",
+		"ISEN_JOB1_DETAILS": "Prepare lunch, serve",
+		"JACKET_DATE": "July-August 2012",
+		"JACKET": "Job in a food factory as a packaging worker",
+		"JACKET_DETAILS": "Jacquet company (FRANCE)",
+		"BINOCLE_DATE": "June-July 2014",
+		"BINOCLE": "Internship in Binocle3D company (France)",
+		"BINOCLE_DETAILS": "Development of a web interface which allow to program a microcontroller (PIC32) with AngularJS."
+	},
+	"PROJECTS": {
+		"BATTLESHIP": "Battleship game",
+		"BATTLESHIP_DESCRIPTION": "Game created for the end year project during my first year in engineering school (ISEN).",
+		"DRAUGHTS": "Draughts game",
+		"DRAUGHTS_DESCRIPTION": "Game created for the end year project during my second year in engineering school (ISEN). The library used to create this game was Allegro.",
+		"PULSE_OXIMETER": "Pulse oxymeter",
+		"PULSE_OXIMETER_DESCRIPTION": "Created for the end year project during my third year in engineering school (ISEN).",
+		"SHIP_ROBOT": "Ship robot",
+		"SHIP_ROBOT_DESCRIPTION": "Development of an artificial intelligence for a robot.",
+		"ZOMBI": "AlektoroZombie",
+		"ZOMBI_DESCRIPTION": "Game made in two days during a GameJam in October which was organized within my university (UQAC)",
+		"LRDA": "The Return of Abargoch",
+		"LRDA_DESCRIPTION": "Game made for a video game course",
+		"AJV": "Video game workshop",
+		"AJV_DESCRIPTION": "Video game was made for a video game workshop course. We had to use some technologies of virtual reality"
+	},
+	"HOME": {
+		"PERSONAL_DESCRIPTION": "Discover me and my skills",
+		"EDUCATION_DESCRIPTION": "What I have learnt",
+		"EXPERIENCES_DESCRIPTION": "My work experiences",
+		"PROJECT_DESCRIPTION": "Schoolar and personal project"
+	},
+	"PERSONAL": "Personal",
+	"EDUCATION": "Educations",
+	"EXPERIENCE": "Experiences",
+	"PROJECT": "Projects",
+	"FRENCH": "French",
+	"ENGLISH": "English",
+	"LANGUAGE": "Language"
+}

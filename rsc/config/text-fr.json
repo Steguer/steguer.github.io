@@ -1,0 +1,157 @@
+{
+	"SCHOOLS1": {
+		"ROW1": {
+			"YEAR": "2014-2015",
+			"DOUBLE_DIPLOMA": "Double diplôme: ",
+			"STUDY1": "Maîtrise en informatique concentration jeux vidéo",
+			"UNIVERSITY1": "UQAC (Université du Québec A Chicoutimi)",
+			"STUDY2": "Dernière année d'école d'ingénieurs",
+			"UNIVERSITY2": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest",
+			"NOTE": "(Étudie actuellement à l'UQAC)"
+		},
+		"ROW2": {
+			"YEAR": "2012-2014",
+			"STUDY": "3e et 4e année d'école d'ingénieur avec majeur en génie logiciel",
+			"UNIVERSITY": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest"
+		},
+		"ROW3": {
+			"YEAR": "2010-2012",
+			"STUDY": "Classe préparatoire MPSI/PSI",
+			"UNIVERSITY": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest"
+		},
+		"ROW4": {
+			"YEAR": "2010",
+			"STUDY": "Baccalauréat Scientifique avec mention",
+			"UNIVERSITY": "Lycée Félix le Dantec de Lannion(22) France"
+		},
+		"TITLE": "Études"
+	},
+	"SCHOOLS2": {
+		"SEMESTER1": "Trimestre 1 (09/2014 - 12/2014)",
+		"COURSE11": "Principe de conception de jeux vidéo",
+		"COURSE12": "Génie logiciel",
+		"COURSE13": "Inintelligence artificiel pour les jeux vidéo",
+		"COURSE14": "Gestion de projet",
+		"SEMESTER2": "Trimestre 2 (01/2014 - 04/2014)",
+		"COURSE21": "Principe des moteurs de jeux",
+		"COURSE22": "Développement mobile",
+		"COURSE23": "Technologie de l'information",
+		"COURSE24": "Création d'un jeu vidéo utilisant les technologies de la réalité virtuelle",
+		"TITLE": "Maîtrise en informatique concentration jeux vidéo"
+	},
+	"SCHOOLS3": {
+		"YEAR1": "4e année",
+		"COURSE11": "Développement sur Android (base)",
+		"COURSE12": "Développement d'IHM",
+		"COURSE13": "Java distribué",
+		"COURSE14": "Analyse numérique",
+		"COURSE15": "Traitement du signal",
+		"COURSE16": "Électronique",
+		"YEAR2": "3e année",
+		"COURSE21": "Traitement du signal",
+		"COURSE22": "Électronique",
+		"COURSE23": "Programmation embarqué",
+		"COURSE24": "VHDL",
+		"COURSE25": "Programmation système",
+		"TITLE": "3e et 4e année d'école d'ingénieur"
+	},
+	"PERSONAL1": {
+		"TITLE": "Presentation",
+		"S1": "Bonjour",
+		"S2": "Je m'appelle Steven GERARD, j'ai 22 ans et suis actuellement étudiant en informatique. Après 4 ans au sein de l'école d'ingénieur ISEN (Institut Supérieur d'Electronique et du Numérique) je prépare aujourd'hui une maitrise en informatique au sein de l'UQAC (Université du Québec A Chicoutimi) avec une concentration en jeux vidéo.",
+		"S3": "Je suis actuellement à la recherche d'un stage fin d'étude de 6 mois de préférence au sein de l'industrie du jeux vidéo en tant que programmeur moteur ou IA"
+	},
+	"PERSONAL2": {
+		"TITLE": "Compétences informatiques",
+		"CCPP": "C/C++",
+		"SFML": "SFML",
+		"ALLEGRO": "Allegro",
+		"QT": "Qt",
+		"MFC": "MFC",
+		"CPP": "C++11",
+		"ANGULARJS": "AngularJS",
+		"BOOTSTRAP": "Bootstrap",
+		"HTML": "HTML",
+		"CSS": "CSS",
+		"WEB": "Web",
+		"JAVA": "Java",
+		"SWING": "Swing",
+		"JSFML": "JSFML",
+		"DISTRIBUTED_JAVA": "Java distribué",
+		"ANDROID": "Android",
+		"VIDEO_GAME": "Jeux vidéo",
+		"GO": "Golang",
+		"D": "Dlang",
+		"DART": "Dart",
+		"OTHERS": "Autres",
+		"UNITY": "Unity",
+		"UE": "Unreal Engine 4",
+		"RUST": "Rust"
+	},
+	"PERSONAL3": {
+		"TITLE": "Compétences en électronique",
+		"SIGNAL_PROCESSING": "Traitement du signal",
+		"ANALOGUE_ELECTRONICS_SKILLS": "Analogique",
+		"NUMERICAL_ELECTRONICS_SKILLS": "Numérique"
+	},
+	"PERSONAL4": {
+		"TITLE": "Compétences linguistique",
+		"FRENCH": "Français",
+		"FRENCH_LEVEL": "Langue maternel",
+		"ENGLISH": "Anglais",
+		"ENGLISH_LEVEL": "FCE First Certificate of English",
+		"JAPANESE": "Japonais",
+		"JAPANESE_LEVEL": "1 année d'étude",
+		"SPANISH": "Espagnol",
+		"SPANISH_LEVEL": "3 ans d'études"
+	},
+	"EXPERIENCES": {
+		"IBC_DATE": "12-26 Septembre 2013",
+		"IBC": "Participation au salon IBC (International Broadcasting Convention) à Amsterdam avec l'entreprise Binocle",
+		"IBC_DETAILS": "Prospection des évolutions sur le marché de la 3D stéréoscopique",
+		"THALES_DATE": "Juin-Août 2013",
+		"THALES":  "Stage au sein de l'entreprise Thales Angénieux (Saint-Etienne)",
+		"THALES_DETAILS":  "Développement d'une IHM en langage C++ avec utilisation de la bibliothèque MFC, rédaction d'une documentation technique",
+		"ISEN_JOB2_DATE": "2012-2013",
+		"ISEN_JOB2": "Trésorier du foyer des étudiants de l'ISEN Brest",
+		"ISEN_JOB2_DETAILS": "Gestion du budget (achat, ventes), trésorier, participation à la rénovation du foyer",
+		"ISEN_JOB1_DATE": "2011-2012",
+		"ISEN_JOB1": "Activité bénévole dans un foyer d'étudiants",
+		"ISEN_JOB1_DETAILS": "Préparation des repas, service, tenue de la caisse",
+		"JACKET_DATE": "Juillet-Août 2012",
+		"JACKET": "Ouvrier en industrie agroalimentaire, mise en carton, surveillance de ligne, palettiseur",
+		"JACKET_DETAILS": "Entreprise Jacquet",
+		"BINOCLE_DATE": "Juin-Juillet 2014",
+		"BINOCLE": "Stage entreprise binocle 3D",
+		"BINOCLE_DETAILS": "Réalisation d’une interface web permettant la programmation d’un microcontrolleur (PIC32) avec AngularJS"
+	},
+	"PROJECTS": {
+		"BATTLESHIP": "Bataille naval",
+		"BATTLESHIP_DESCRIPTION": "Projet de fin d'anéne réalisé lors de ma première année de classe préparatoire (ISEN).",
+		"DRAUGHTS": "Jeu de dame",
+		"DRAUGHTS_DESCRIPTION": "Projet de fin d'année réalisé lors de ma deuxième année de classe préparatoire (ISEN). La bibliothèque utilisé était Allegro.",
+		"PULSE_OXIMETER": "Oxymètre de poul",
+		"PULSE_OXIMETER_DESCRIPTION": "Projet de fin d'année réalisé lors de ma première année de cycle ingénieur (ISEN)",
+		"SHIP_ROBOT": "Bateau robot",
+		"SHIP_ROBOT_DESCRIPTION": "Réalisation d'une intélligence artificielle pour un robot.",
+		"ZOMBI": "AlektoroZombie",
+		"ZOMBI_DESCRIPTION": "Jeu réalisé en deux jours pendant la GameJam d'octobre organisé au sein de mon université (UQAC).",
+		"LRDA": "Le Retour d'Abargoch",
+		"LRDA_DESCRIPTION": "Jeu réalisé dans le cadre du cour de conception de jeux-vidéo",
+		"AJV": "Atelier de jeux vidéo",
+		"AJV_DESCRIPTION": "Jeu réalisé dans le cadre du cours spécial \"Atelier de jeu vidéo\". Nous avons à utiliser les technologie de la réalité virtuelle"
+	},
+	"HOME": {
+		"PERSONAL_DESCRIPTION": "Découvrez moi et mes compétences",
+		"EDUCATION_DESCRIPTION": "Ce que j'ai appris",
+		"EXPERIENCES_DESCRIPTION": "Mon expérience professionnel",
+		"PROJECT_DESCRIPTION": "Projets scolaire et personnel"
+	},
+	"PERSONAL": "Personnel",
+	"EDUCATION": "Formations",
+	"EXPERIENCE": "Expériences",
+	"PROJECT": "Projets",
+	"FRENCH": "Français",
+	"ENGLISH": "Anglais",
+	"LANGUAGE": "Langue"
+}
