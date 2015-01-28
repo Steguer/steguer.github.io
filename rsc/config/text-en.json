@@ -11,7 +11,7 @@
 		},
 		"ROW2": {
 			"YEAR": "2012-2014",
-			"STUDY": "3 and 4 year of five years focus on software engineering",
+			"STUDY": "3rd and 4th year of five years focus on software engineering",
 			"UNIVERSITY": "ISEN (Institut Supérieur de l'Electronique et du Numérique) Brest"
 		},
 		"ROW3": {
@@ -145,7 +145,7 @@
 		"PERSONAL_DESCRIPTION": "Discover me and my skills",
 		"EDUCATION_DESCRIPTION": "What I have learnt",
 		"EXPERIENCES_DESCRIPTION": "My work experiences",
-		"PROJECT_DESCRIPTION": "Schoolar and personal project"
+		"PROJECT_DESCRIPTION": "Schoolar and personal projects"
 	},
 	"PERSONAL": "Personal",
 	"EDUCATION": "Educations",
