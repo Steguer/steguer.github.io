@@ -139,7 +139,9 @@
 		"LRDA": "The Return of Abargoch",
 		"LRDA_DESCRIPTION": "Game made for a video game course",
 		"AJV": "Video game workshop",
-		"AJV_DESCRIPTION": "Video game was made for a video game workshop course. We had to use some technologies of virtual reality"
+		"AJV_DESCRIPTION": "Video game was made for a video game workshop course. We had to use some technologies of virtual reality",
+        "MTRGJ": "Montréal Game Jam",
+        "MTRGJ_DESCRIPTION": "Game made in two days during the Montréal Game Jam which was a location of the Global Game Jam"
 	},
 	"HOME": {
 		"PERSONAL_DESCRIPTION": "Discover me and my skills",

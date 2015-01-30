@@ -108,7 +108,22 @@
 			}
 		}
 	},
-	"project7": {
+      "project7": {
+      "img": "rsc/img/mtrgj.png",
+      "name": "MTRGJ",
+      "description": "MTRGJ_DESCRIPTION",
+      "dateStart": "2015-01-10",
+      "dateEnd": "2015-01-10",
+      "linkGithub": "https://github.com/Steguer/MTLGJ",
+      "technology": {
+        "Unity": {
+          "label": "UNITY",
+          "using": 100,
+          "details": ""
+        }
+      }
+    },
+	"project8": {
 		"img": "rsc/img/uqac_logo.png",
 		"name": "AJV",
 		"description": "AJV_DESCRIPTION",
@@ -116,7 +131,7 @@
 		"dateEnd": "2015-04-10",
 		"linkGithub": "",
 		"technology": {
-			"Unity": {
+			"UE4": {
 				"label": "Unreal Engine 4",
 				"using": 100,
 				"details": [

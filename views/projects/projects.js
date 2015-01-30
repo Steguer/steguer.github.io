@@ -3,12 +3,12 @@
 angular.module('stevenGerardCV.projects', [])
 
   .controller('projectsCtrl', ['$translate', '$scope', '$window', 'Config', function($translate, $scope, $window, Config) {
-	$scope.totalItems = 70;
+	$scope.totalItems = 80;
 	$scope.currentPage = 1;
 	$scope.isCollapsed = true;
 
 	$scope.changePage = function() {
-		var page = 7 - $scope.currentPage + 1;
+		var page = $scope.totalItems/10 - $scope.currentPage + 1;
 		return 'views/projects/projects_' + page + '.html';
 	}
 
