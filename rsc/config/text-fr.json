@@ -59,7 +59,7 @@
 		"TITLE": "Presentation",
 		"S1": "Bonjour",
 		"S2": "Je m'appelle Steven GERARD, j'ai 22 ans et suis actuellement étudiant en informatique. Après 4 ans au sein de l'école d'ingénieur ISEN (Institut Supérieur d'Electronique et du Numérique) je prépare aujourd'hui une maîtrise en informatique au sein de l'UQAC (Université du Québec A Chicoutimi) avec une concentration en jeux vidéo.",
-		"S3": "Je suis actuellement à la recherche d'un stage fin d'étude de 6 mois de préférence au sein de l'industrie du jeu vidéo en tant que programmeur moteur ou IA"
+		"S3": "Je suis actuellement à la recherche d'un stage fin d'étude de 6 mois de préférence au sein de l'industrie du jeu vidéo en tant que programmeur moteur, outils ou IA"
 	},
 	"PERSONAL2": {
 		"TITLE": "Compétences informatiques",
@@ -139,7 +139,9 @@
 		"LRDA": "Le Retour d'Abargoch",
 		"LRDA_DESCRIPTION": "Jeu réalisé dans le cadre du cours de conception de jeu-vidéo",
 		"AJV": "Atelier de jeu vidéo",
-		"AJV_DESCRIPTION": "Jeu réalisé dans le cadre du cours spécial \"Atelier de jeu vidéo\". Nous avons utilisé les technologies de la réalité virtuelle"
+		"AJV_DESCRIPTION": "Jeu réalisé dans le cadre du cours spécial \"Atelier de jeu vidéo\". Nous avons utilisé les technologies de la réalité virtuelle",
+      "MTRGJ": "Montréal Game Jam",
+      "MTRGJ_DESCRIPTION": "Jeu réalisé en deux jours pendant la Montréal Game Jam qui était un des sites de la Global Game Jam"
 	},
 	"HOME": {
 		"PERSONAL_DESCRIPTION": "Découvrez-moi et mes compétences",
