@@ -1,0 +1,24 @@
+{
+	"buttons": {
+		"Button1": {
+			"label": "PERSONAL",
+			"link": "personal"
+		},
+		"Button2": {
+			"label": "EDUCATION",
+			"link": "educations"
+		},
+		"Button3": {
+			"label": "EXPERIENCE",
+			"link": "experiences"
+		},
+		"Button4": {
+			"label": "PROJECT",
+			"link": "projects"
+		}
+	},
+	"languages": {
+		"english": "ENGLISH",
+		"french": "FRENCH"
+	}
+}

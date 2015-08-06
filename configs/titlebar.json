@@ -1,0 +1,25 @@
+{
+	"defaultImgPath": "images",
+	"TitleBar": {
+		"name": "Name.png",
+		"altText": "Steven GERARD"
+	},
+	"socialNetwork": {
+		"twitter": {
+			"link": "https://twitter.com/StevenDGERARD",
+			"img": "twitter.png"
+		},
+		"linkedin": {
+			"link": "https://www.linkedin.com/pub/steven-gerard/86/4b9/b6a",
+			"img": "linkedin.png"
+		},
+		"viadeo": {
+			"link": "http://www.viadeo.com/fr/profile/steven.gerard7",
+			"img": "viadeo.png"
+		},
+		"github": {
+			"link": "https://github.com/Steguer",
+			"img": "github.png"
+		}
+	}
+}
