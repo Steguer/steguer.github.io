@@ -2,25 +2,25 @@
 	"defaultImgPath": "images",
 	"Home": {
 		"Part1": {
-			"name": "PhotoMoi.png",
+			"name": "PhotoMoi.7f7dc2be.png",
 			"altText": "Steven GERARD",
 			"link": "personal",
 			"description": "PERSONAL_DESCRIPTION"
 		},
 		"Part2": {
-			"name": "Education.png",
+			"name": "Education.e0305ee9.png",
 			"altText": "EDUCATION",
 			"link": "educations",
 			"description": "EDUCATION_DESCRIPTION"
 		},
 		"Part3": {
-			"name": "Experience.png",
+			"name": "Experience.ab3d4bc8.png",
 			"altText": "EXPERIENCE",
 			"link": "experiences",
 			"description": "EXPERIENCES_DESCRIPTION"
 		},
 		"Part4": {
-			"name": "Projet.png",
+			"name": "Projet.7819ecb0.png",
 			"altText": "PROJECT",
 			"link": "projects",
 			"description": "PROJECT_DESCRIPTION"

@@ -1,7 +1,7 @@
 {
 	"defaultImgPath": "images",
 	"project1": {
-		"img": "battleship.png",
+		"img": "battleship.406a3a16.png",
 		"name": "BATTLESHIP",
 		"description": "BATTLESHIP_DESCRIPTION",
 		"dateStart": "2011-06-10",
@@ -16,7 +16,7 @@
 		}
 	},
 	"project2": {
-		"img": "draughts.png",
+		"img": "draughts.70653712.png",
 		"name": "DRAUGHTS",
 		"description": "DRAUGHTS_DESCRIPTION",
 		"dateStart": "2012-06-10",
@@ -32,7 +32,7 @@
 		}
 	},
 	"project3": {
-		"img": "oxymeter.png",
+		"img": "oxymeter.98373b99.png",
 		"name": "PULSE_OXIMETER",
 		"description": "PULSE_OXIMETER_DESCRIPTION",
 		"dateStart": "2013-02-10",
@@ -57,7 +57,7 @@
 		}
 	},
 	"project4": {
-		"img": "boat.png",
+		"img": "boat.b9c317b3.png",
 		"name": "SHIP_ROBOT",
 		"description": "SHIP_ROBOT_DESCRIPTION",
 		"dateStart": "2013-09-10",
@@ -76,7 +76,7 @@
 		}
 	},
 	"project5": {
-		"img": "zombi1.png",
+		"img": "zombi1.41e5ae05.png",
 		"name": "ZOMBI",
 		"description": "ZOMBI_DESCRIPTION",
 		"dateStart": "2014-10-10",
@@ -93,7 +93,7 @@
 		}
 	},
 	"project6": {
-		"img": "lra.png",
+		"img": "lra.07b7afd2.png",
 		"name": "LRDA",
 		"description": "LRDA_DESCRIPTION",
 		"dateStart": "2014-12-10",
@@ -110,7 +110,7 @@
 		}
 	},
       "project7": {
-      "img": "mtrgj.png",
+      "img": "mtrgj.4d3424d6.png",
       "name": "MTRGJ",
       "description": "MTRGJ_DESCRIPTION",
       "dateStart": "2015-01-10",
@@ -125,7 +125,7 @@
       }
     },
 	"project8": {
-		"img": "uqac_logo.png",
+		"img": "uqac_logo.0bfb9523.png",
 		"name": "AJV",
 		"description": "AJV_DESCRIPTION",
 		"dateStart": "2015-01-10",
@@ -142,7 +142,7 @@
 		}
 	},
 	"project9": {
-		"img": "marmotteWorld.png",
+		"img": "marmotteWorld.8e14e9a6.png",
 		"name": "MARMOTTE_WORLD",
 		"description": "MARMOTTE_WORLD_DESCRIPTION",
 		"dateStart": "2015-06-18",
