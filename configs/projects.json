@@ -1,5 +1,6 @@
 {
 	"defaultImgPath": "images",
+	"githubImg": "github_black.bbef8df5.png",
 	"project1": {
 		"img": "battleship.406a3a16.png",
 		"name": "BATTLESHIP",
